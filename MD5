@@ -1,0 +1,10 @@
+a54098fc387fbceb30a2dc991576e31a *DESCRIPTION
+53f80b1af1d3f6768b6aba502581ff7c *NAMESPACE
+104b43a7414eeb73afc5f408f76d9163 *NEWS.md
+25bf454aae519dc9bff2883e4d458b2d *R/load.R
+f9f33ef92b2e64f8a3835a635c01417c *R/package.R
+9c5be1ac15bcda24d245c644bb09484d *R/utils.R
+74c74d0fd231a184050b95bbe10cdeb5 *README.md
+f0d458d1a1196cbc61660666bfa6802b *man/after.Rd
+a963961c670c59461b52c8a6b57cf37e *tests/testthat.R
+347346e617fde0d61c77266d4a77f74f *tests/testthat/test.R
